@@ -1,0 +1,12 @@
+hibernate:
+  dialect: org.hibernate.dialect.PostgreSQLDialect
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/Hiber
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+
+
+
